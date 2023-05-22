@@ -23,5 +23,11 @@ This is the view of complex circuit by inserting above sub-circuits andd by clic
 
 ![image](https://github.com/Aftab-affu/intern_6w/assets/93983242/ef3aa51f-0863-4186-bc77-fbde871b12fb)
 
+This is the view of verilog code given by circuitverse simulator
+![image](https://github.com/Aftab-affu/intern_6w/assets/93983242/bc500434-feeb-4d7c-a2ea-f7b1c6783485)
+
+
+After taking this verilog code we can go to EDA playground and run it . For all the above reasons circuit verse is best online simulator for beginners and everyone.
+
 
 
