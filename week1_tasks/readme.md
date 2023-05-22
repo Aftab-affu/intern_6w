@@ -2,6 +2,8 @@
 
 1. Firstly we have been introduced to online EDA tool called EDA playground .We have learned about different modellings through which we prepare a code and testbench
  for given circuit .we have learned about data flow modelling and behavioural modelling and different modellings .  
- 
- 
-
+ How to write codes for different combinational and sequential circuits we have learnt . EDA Playground is a free web application that allows users to edit, simulate (and view waveforms), synthesize, and share their HDL code. Its goal is to accelerate the learning of design and testbench development with easier code sharing and with simpler access to simulators and libraries. 
+There are so many websites like chipverify.com, verificationacademy.com, verificationguide.com, iverilog.com, and more.   But EDA Playground is user friendly than all other websites 
+2. Then in this week we have also been introduced to circuit verse .
+ CircuitVerse (CV) simulator is a cloud-based open source tool for building live circuit simulations.We can build from simple gates to complex sequential circuits, plot timing diagrams, automatic circuit generation, explore standard ICs, and much more. CircuitVerse can export high-resolution images in multiple formats including SVG.Automatically generate circuit based on truth table data. This is great to create complex logic circuits and can be easily be made into a subcircuit. Create subcircuits once and use them repeatedly. This allows easier and more structured design.CircuitVerse supports multi bit-wires, this means circuit design is easier, faster, and uncluttered.
+3. After EDA playground and Circuitverse , we have been introduced deeply to behavioral modelling . Like it contains procedural statements, which control the simulation and manipulate variables of the data types. These statements are contained within the procedures. Each of the procedures has an activity flow associated with it.
